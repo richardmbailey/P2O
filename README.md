@@ -3,7 +3,7 @@ Full system stock &amp; flow model of plastic use, environmental leakage, econom
 
 The model was written in Matlab, version R2017b (9.3.0.713579), by Richard Bailey, and runs on Mac OS, Windows, Linux.
 
-# Instructions for use:
+# Instructions for use
 Choose a numbered Archetype and Scenario (see below)
 Copy configuration files for chosen combination from ~/P2O/config_files_store in to ~/P2O/config_files 
 Open "run_P2O.m" in Matlab
