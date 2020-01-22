@@ -17,14 +17,14 @@ In batch mode (setting 'batch_run=true()' within 'run_P2O.m'), the archetype and
 The included MS Excel sheet 'Input_Files_List.xlsx' provides details of the content of configuration files, so changes can be made to parameters/inputs if needed.
 
 ARCHETYPES:               
-1. HI_Urban_batch         
-2. HI_Rural_batch         
-3. UMI_Urban_batch        
-4. UMI_Rural_batch        
-5. LMI_Urban_batch        
-6. LMI_Rural_batch        
-7. LI_Urban_batch
-8. LI_Rural_batch
+1. HI_Urban      
+2. HI_Rural 
+3. UMI_Urban
+4. UMI_Rural
+5. LMI_Urban
+6. LMI_Rural
+7. LI_Urban
+8. LI_Rural
 
 SCENARIOS:
 1. Baseline
