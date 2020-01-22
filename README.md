@@ -4,12 +4,12 @@ Full system stock &amp; flow model of plastic use, environmental leakage, econom
 The model was written in Matlab, version R2017b (9.3.0.713579), by Richard Bailey, and runs on Mac OS, Windows, Linux.
 
 # Instructions for use
-Choose a numbered Archetype and Scenario (see below)
-Copy configuration files for chosen combination from ~/P2O/config_files_store in to ~/P2O/config_files 
-Open "run_P2O.m" in Matlab
-Set relevant choices within the setup sections
-Run script "run_P2O.m". Text output to the Command Window provides information as the model runs.
-Once finished, results are found in ~/P20/Output_files
+- Choose a numbered Archetype and Scenario (see below)
+- Copy configuration files for chosen combination from ~/P2O/config_files_store in to ~/P2O/config_files 
+- Open "run_P2O.m" in Matlab
+- Set relevant choices within the setup sections
+- Run script "run_P2O.m". Text output to the Command Window provides information as the model runs.
+- Once finished, results are found in ~/P20/Output_files
 
 The model can be run in 'single run' and 'batch' modes. 
 For single runs (set 'batch_run=false()' within 'run_P2O.m'), the chosen archetype/scenario combination is specified explicitly within the code.
