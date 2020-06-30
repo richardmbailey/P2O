@@ -2,6 +2,7 @@
 Full system stock &amp; flow model of plastic use, environmental leakage, economics, jobs &amp; GHG emissions
 
 The model was written in Matlab, version R2017b (9.3.0.713579), by Richard Bailey, and runs on Mac OS, Windows, Linux.
+https://zenodo.org/badge/234351801.svg
 
 # Instructions for use
 - Choose a numbered Archetype and Scenario (see below)
